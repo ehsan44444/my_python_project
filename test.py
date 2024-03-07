@@ -1,3 +1,3 @@
 print("ehsan")
 print("tahafchi")
-print("AI--Lab")
+print("AI---Lab")
